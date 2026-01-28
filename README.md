@@ -1,3 +1,4 @@
+My sidestore and trollapps repos for updates.
 | Client        | Source URL                                            |
 | :------------ | :---------------------------------------------------- |
 | **SideStore** | `https://OofMini.github.io/Minis-Repo/sidestore.json` |
